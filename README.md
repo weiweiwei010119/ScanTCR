@@ -1,4 +1,4 @@
-# caTCRem
+# ScanTCR
 
 ## 🧬Project Overview
 
